@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Umut !
+- 👋 **Hi, I’m Umut !**
 - 👀 I’m interested in F1, Gaming, Movies, Tennis.
-- 🌱 I’m currently learning C#, .NET, HTML, CSS, JavaScript, React. 
+- 🌱 I’m currently learning C#, .NET, SQL, HTML, CSS, JavaScript, React. 
 - 💞️ I’m looking to collaborate.
 - 📫 You can reach me with [this](https://www.linkedin.com/in/uumut-aydinn/) link anytime.
 
